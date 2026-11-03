@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/itsfourvn/itsfourvn/blob/main/generated/itsfourvn.svg" width="250"  alt="itsfourvn animated name">
+<img src="https://github.com/itsfour/itsfour/blob/main/generated/itsfour.svg" width="250"  alt="itsfour animated name">
 
 · **`UI CONFIG`** **`Aimbot`** **`Triggerbot`** **`FOV`** **`TRACERS`** **`ESP`** **`DOT`** **`other features`** ·
 <br>· *This project is currently in beta testing. Feel free to create pull requests (you will be credited), report issues, or contact me through any of my linked platforms.*
@@ -52,7 +52,7 @@
 Trước hết, để triển khai mô-đun trong môi trường kịch bản của bạn, bạn phải sử dụng hàm loadstring như sau:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/itsfourvn/AimHub/main/scr/Aimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itsfour/AimHub/main/scr/Aimbot.lua"))()
 ```
 
 
@@ -142,7 +142,7 @@ Chỉ gửi thông tin cần thiết; không đính kèm cookie, token hoặc d�
 First of all, to implement the module in your script's environment you must use the function loadstring like below:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/itsfourvn/AimHub/main/scr/Aimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itsfour/AimHub/main/scr/Aimbot.lua"))()
 ```
 
 
@@ -193,7 +193,7 @@ Share only relevant diagnostic information. Do not attach cookies, tokens, or pe
  
 ---
 
-**Developer:** [itsfour](https://github.com/itsfourvn)
+**Developer:** [itsfour](https://github.com/itsfour)
 
 Copyright © 2026 itsfour. All rights reserved.
 
